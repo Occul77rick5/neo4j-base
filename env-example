@@ -1,0 +1,8 @@
+SECRET_KEY="super secret guy"
+NEO4J_DATABASE_USERNAME="neo4j"
+NEO4J_DATABASE_PASSWORD="Password"
+NEO4J_DATABASE_URL="neo4j+s://{DATABASEINFO}.databases.neo4j.io"
+MONGO_URL="mongodb+srv://username:[identifier]@[something].mongodb.net/?retryWrites=true&w=majority"
+NODE_ENV="development"
+COOKIE_NAME="COOKIESSSSS"
+LOG_LEVEL="info"
